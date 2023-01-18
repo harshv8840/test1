@@ -1,0 +1,9 @@
+{
+	"name": "ADDemoLateset",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a9bd471b-7fd2-41de-bf90-8cf71e9db3e4",
+		"tenantId": "64e07cd3-c1ca-44aa-87e1-c320fc41b5b4"
+	}
+}
